@@ -5,7 +5,7 @@
 <div align="center">
 
 [![Zig](https://img.shields.io/badge/Zig-%3E%3D0.15.2-blue?logo=zig&logoColor=white)](https://ziglang.org)
-[![CI](https://github.com/etroynov/url-builder/actions/workflows/ci.yml/badge.svg)](https://github.com/etroynov/url-builder/actions/workflows/ci.yml)
+[![CI](https://github.com/zig-toolbelt/url-builder/actions/workflows/ci.yml/badge.svg)](https://github.com/zig-toolbelt/url-builder/actions/workflows/ci.yml)
 [![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
 
 </div>
@@ -29,7 +29,7 @@
 1. Run `zig fetch` to add the dependency:
 
 ```sh
-zig fetch --save https://github.com/etroynov/url-builder/archive/refs/tags/0.1.0.tar.gz
+zig fetch --save https://github.com/zig-toolbelt/url-builder/archive/refs/tags/0.1.0.tar.gz
 ```
 
 2. In `build.zig` import the module:
