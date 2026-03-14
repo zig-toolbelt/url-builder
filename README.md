@@ -1,4 +1,8 @@
 <div align="center">
+  <img width="350" alt="url-builder logo" src="logo.svg" />
+</div>
+
+<div align="center">
 
 [![Zig](https://img.shields.io/badge/Zig-%3E%3D0.15.2-blue?logo=zig&logoColor=white)](https://ziglang.org)
 [![Tests](https://img.shields.io/badge/build-passing-brightgreen)](zig%20build%20test)
