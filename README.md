@@ -32,17 +32,6 @@
 zig fetch --save https://github.com/etroynov/url-builder/archive/refs/tags/0.1.0.tar.gz
 ```
 
-This will automatically add the entry to your `build.zig.zon`:
-
-```zon
-.dependencies = .{
-    .url_builder = .{
-        .url = "https://github.com/etroynov/url-builder/archive/refs/tags/0.1.0.tar.gz",
-        .hash = "<computed by zig fetch>",
-    },
-},
-```
-
 2. In `build.zig` import the module:
 
 ```zig
