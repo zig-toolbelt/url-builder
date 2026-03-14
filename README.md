@@ -5,7 +5,7 @@
 <div align="center">
 
 [![Zig](https://img.shields.io/badge/Zig-%3E%3D0.15.2-blue?logo=zig&logoColor=white)](https://ziglang.org)
-[![Tests](https://img.shields.io/badge/build-passing-brightgreen)](zig%20build%20test)
+[![CI](https://github.com/etroynov/url-builder/actions/workflows/ci.yml/badge.svg)](https://github.com/etroynov/url-builder/actions/workflows/ci.yml)
 [![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
 
 </div>
