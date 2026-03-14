@@ -4,9 +4,9 @@
 
 <div align="center">
 
-[![Zig](https://img.shields.io/badge/Zig-%3E%3D0.15.2-blue?logo=zig&logoColor=white)](https://ziglang.org)
-[![CI](https://github.com/zig-toolbelt/url-builder/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/zig-toolbelt/url-builder/actions/workflows/ci.yml)
-[![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
+[![Zig](https://img.shields.io/badge/Zig-%3E%3D0.15.2-blue?logo=zig&logoColor=white&style=for-the-badge)](https://ziglang.org)
+[![CI](https://img.shields.io/github/actions/workflow/status/zig-toolbelt/url-builder/ci.yml?branch=main&style=for-the-badge&label=CI)](https://github.com/zig-toolbelt/url-builder/actions/workflows/ci.yml)
+[![License](https://img.shields.io/badge/license-MIT-brightgreen?style=for-the-badge)](LICENSE)
 
 </div>
 
